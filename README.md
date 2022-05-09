@@ -63,12 +63,17 @@
 - [Design Computing: 3D Modeling in Rhinoceros with Python Rhinoscript](https://www.futurelearn.com/courses/design-computing-3d-modeling-in-rhinoceros-with-python-rhinoscript) - The fundamentals of coding in the Python scripting language.
 - [Essential Mathematics for Computational Design](https://www.rhino3d.education/p/rajaa) - Introduces to design professionals the foundation mathematical concepts that are necessary for effective development of computational methods for 3D modeling and computer graphics.
 - [C# Scripting and Plugin Development for Grasshopper](https://www.icd.uni-stuttgart.de/teaching/workshops/workshop-live-streaming-c-scripting-and-plugin-development-for-grasshopper) - Live-streamed workshop C# Scripting and Plugin Development for Grasshopper, taught by Research Associate [Long Nguyen](https://www.linkedin.com/in/longnguyenp/)
+- [CORE studio](https://www.youtube.com/channel/UCrRLB6dxhTWLGLSVzWRaHjw)-Thornton Tomasetti
 
 ## Getting-started-Machine-Learning
+- [ETHZ CAAD- Machine Intelligence](https://www.youtube.com/playlist?list=PLUJPgS8PA78E8y_vBqpRtsVy9k-ZZRQ3Q)- Introduction to machine intelligence
+- [CCI explore machine intelligence](https://www.youtube.com/playlist?list=PLCIVpmFkFKQ88lzWtYW2MCwqXofhkzqgt)- Machine intelligence
 - [FIU DDES Lectures_Theories of the Digital](https://www.youtube.com/playlist?list=PLjgJTkiYXdLfjR2Lf31_A9huoSPVWomhm) - AI and Architecture Talk Hosted by FIU
 - [Artificial Images](https://www.youtube.com/user/bustbright) - A Tutorials are all about Generative art using AI.
 - [Nono Martínez Alonso](https://www.youtube.com/channel/UCTn8RnMFvQWxSOZBo06e_Ew) - Live streamed Using Machine Learning, Talks, Tutorials about Machine Intelligence.
 - [Creative AI for Design Exploration](https://www.youtube.com/playlist?list=PLWu3lkFWPBHnyn_jVtl2aTL8CQFyrMa_k) - An Introduction to Creative AI for Designer
+
+
 ### Visual
 
 - [Learn to see](http://wpmemo.memo.tv/portfolio/learning-to-see/) - :eye: An artificial neural network making predictions on live webcam input, trying to make sense of what it sees, in context of what it’s seen before. It can see only what it already knows, just like us.
