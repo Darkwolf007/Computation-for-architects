@@ -20,7 +20,7 @@
 - [Getting Simple Podcast](https://gettingsimple.com/podcast) - Do Less, Better Getting Simple is a podcast about how you can live a more meaningful, creative, and simple life.
 - [EngineeringArchiTECHure](https://www.youtube.com/c/EngineeringArchiTECHure) - A wide range of conversation with people in AEC tech hosted by [Mayur Mistry](https://twitter.com/mistrymm7)
 
-##People to follow// Creative AI
+## People to follow// Creative AI
 - [Tero Parviainen](https://twitter.com/teropa) - Software developer, music hacker, and writer. Building the design tools of the future at creative.ai.
 - [Gene Kogan](http://genekogan.com/) - an artist and a programmer who initiated ml4a.
 - [大トロ(hardmaru)](https://twitter.com/hardmaru) - Research Scientist at Google Brain, Tokyo.
