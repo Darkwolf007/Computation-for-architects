@@ -72,6 +72,7 @@
 - [Artificial Images](https://www.youtube.com/user/bustbright) - A Tutorials are all about Generative art using AI.
 - [Nono Martínez Alonso](https://www.youtube.com/channel/UCTn8RnMFvQWxSOZBo06e_Ew) - Live streamed Using Machine Learning, Talks, Tutorials about Machine Intelligence.
 - [Creative AI for Design Exploration](https://www.youtube.com/playlist?list=PLWu3lkFWPBHnyn_jVtl2aTL8CQFyrMa_k) - An Introduction to Creative AI for Designer
+- [Introduction to deeplearning](https://deeplearning.neuromatch.io/tutorials/intro.htmlhttps://deeplearning.neuromatch.io/tutorials/intro.html) -Deeplearning course by neuromatch academy
 
 
 ### Visual
