@@ -6,7 +6,6 @@
 - [Getting Started with Creative Code 🎨](#Getting-started-Creative-Code)
 - [Introduction to Computational Design 🖥️](#Introduction-to-Computational-Design)
 - [Getting Started with AI/Machine Learning 🤖](#Getting-started-Machine-Learning)
-- [Machine Learning and Deep Learning](#Machine Learning and Deep Learning)
 - [Books & Articles & Resources](#Books-&-Articles)
 - [Additional Resources](#Additinal-Resources)
 
