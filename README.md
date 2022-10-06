@@ -1,15 +1,30 @@
 # ComputationalDesign, ML and creative coding-for-Architect
 
 ## Contents
-- [People to Follow ↗️](#People-to-Follow)
 - [Getting Started with Grasshopper 🌌](#Getting-started-Grasshopper)
 - [Getting Started with Creative Code 🎨](#Getting-started-Creative-Code)
 - [Introduction to Computational Design 🖥️](#Introduction-to-Computational-Design)
 - [Getting Started with AI/Machine Learning 🤖](#Getting-started-Machine-Learning)
 - [Books & Articles & Resources](#Books-&-Articles)
+- [People to Follow ↗️](#People-to-Follow)
 - [Additional Resources](#Additinal-Resources)
 
-## People to Follow
+## Getting Started with Grasshopper/computational
+- [Grasshopper Guides](https://developer.rhino3d.com/guides/grasshopper) - Guides to creating custom Grasshopper components and plugins.
+- [Introduction to Parametric Modeling](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_ym9r2mI2NdnYkoLUPSvXqP) -teaching the basics of using algorithms for creating three-dimensional geometry using Rhinoceros and Grasshopper.
+- [Getting Start with Grasshopper](https://www.youtube.com/playlist?list=PL46eCQifWhqLNEDqIhtWpZmLlZwadKz6u) - Understand the fundamental of Grasshopper taught by David Rutten.
+- [Intro to Grasshopper](https://www.youtube.com/playlist?list=PLGV167zE8gnUzZxgWwPkqPQrofJsXtB4g) - Intro to Grasshopper by Mode Lab.
+- [Grasshopper for Beginner](https://www.youtube.com/playlist?list=PLq-KJ9jF26E2MBIBVKh6cu0O_wJ_1Cq5G) - Webinars taught by Gediminas Kirdeikis --LTH University.
+- [Generate Landscapes](https://generativelandscapes.wordpress.com) - A blogs about using Grasshopper for Landscape Deisgn.
+- [Gediminas Kirdeikis](https://www.youtube.com/user/Gediminas3)-Gediminas Kirdeikis
+- [How to rhino](https://www.youtube.com/channel/UCwImuwbI4lKk544-FS7A2Yw)- How to rhino
+- [Reinhard Koenig](https://www.youtube.com/channel/UCo_hmaAwpJSzd0eyARSs7-Q)- Reinhard Koenig
+- [Exlab](https://vimeo.com/exlab)- Exlab grasshopper
+- [Learning C#](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_yfAFk4GT3gWdFhwCsODUNb) - Introduction to Computer Programming for Designers teaching the basics of how to write computer code using the C# programming language.
+- [Design Computing: 3D Modeling in Rhinoceros with Python Rhinoscript](https://www.futurelearn.com/courses/design-computing-3d-modeling-in-rhinoceros-with-python-rhinoscript) - The fundamentals of coding in the Python scripting language.
+- [Essential Mathematics for Computational Design](https://www.rhino3d.education/p/rajaa) - Introduces to design professionals the foundation mathematical concepts that are necessary for effective development of computational methods for 3D modeling and computer graphics.
+- [C# Scripting and Plugin Development for Grasshopper](https://www.icd.uni-stuttgart.de/teaching/workshops/workshop-live-streaming-c-scripting-and-plugin-development-for-grasshopper) - Live-streamed workshop C# Scripting and Plugin Development for Grasshopper, taught by Research Associate [Long Nguyen](https://www.linkedin.com/in/longnguyenp/)
+- [CORE studio](https://www.youtube.com/channel/UCrRLB6dxhTWLGLSVzWRaHjw)-Thornton Tomasetti
 - [DigitalFUTURES world](https://www.youtube.com/channel/UCHN43U7Xe0oKfPUDkJrojAg) - DigitalFUTURES is an educational platform that has organized an annual series of activities consisting of workshops, lectures, conferences, and exhibitions.
 - [YourDesk University](https://www.youtube.com/channel/UCYVf4Mqp0xqTnfMbkwYVnkw) - YourDesk University is a place for the AEC Tech community to connect and share knowledge remotely. 
 - [ProArchitect](https://www.youtube.com/channel/UCQHbSxkVVmI5BzZWbXrZUXQ) - Computational Designer who talk about Automation in Architecture.
@@ -18,6 +33,9 @@
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) - A YouTube channel dedicated to beginner-friendly creative coding tutorials and challenges taught by Daniel Shiffman.
 - [Getting Simple Podcast](https://gettingsimple.com/podcast) - Do Less, Better Getting Simple is a podcast about how you can live a more meaningful, creative, and simple life.
 - [EngineeringArchiTECHure](https://www.youtube.com/c/EngineeringArchiTECHure) - A wide range of conversation with people in AEC tech hosted by [Mayur Mistry](https://twitter.com/mistrymm7)
+
+## People to Follow// computation
+
 
 ## People to follow// Creative AI
 - [Tero Parviainen](https://twitter.com/teropa) - Software developer, music hacker, and writer. Building the design tools of the future at creative.ai.
@@ -39,17 +57,6 @@
 - [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/) - The creator of The Wekinator (an interacitve machine learning tool).
 - [Sofia Crespo](https://twitter.com/soficrespo91) - An artist based in Berlin. Her works are around microscopy, memetics, botany, and neural nets.
 
-## Getting Started with Grasshopper
-- [Grasshopper Guides](https://developer.rhino3d.com/guides/grasshopper) - Guides to creating custom Grasshopper components and plugins.
-- [Introduction to Parametric Modeling](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_ym9r2mI2NdnYkoLUPSvXqP) -teaching the basics of using algorithms for creating three-dimensional geometry using Rhinoceros and Grasshopper.
-- [Getting Start with Grasshopper](https://www.youtube.com/playlist?list=PL46eCQifWhqLNEDqIhtWpZmLlZwadKz6u) - Understand the fundamental of Grasshopper taught by David Rutten.
-- [Intro to Grasshopper](https://www.youtube.com/playlist?list=PLGV167zE8gnUzZxgWwPkqPQrofJsXtB4g) - Intro to Grasshopper by Mode Lab.
-- [Grasshopper for Beginner](https://www.youtube.com/playlist?list=PLq-KJ9jF26E2MBIBVKh6cu0O_wJ_1Cq5G) - Webinars taught by Gediminas Kirdeikis --LTH University.
-- [Generate Landscapes](https://generativelandscapes.wordpress.com) - A blogs about using Grasshopper for Landscape Deisgn.
-- [Gediminas Kirdeikis](https://www.youtube.com/user/Gediminas3)-Gediminas Kirdeikis
-- [How to rhino](https://www.youtube.com/channel/UCwImuwbI4lKk544-FS7A2Yw)- How to rhino
-- [Reinhard Koenig](https://www.youtube.com/channel/UCo_hmaAwpJSzd0eyARSs7-Q)- Reinhard Koenig
-- [Exlab](https://vimeo.com/exlab)- Exlab grasshopper
 
 ## Getting Started with Creative Code
 - [Introducint to Processing](https://thecodingtrain.com/Courses/learning-processing) - Video lessons accompany the introduction from The Learning Processing book by Daniel Shiffman.
@@ -146,25 +153,10 @@
 - [Creative Applications of Deep Learning with TensorFlow (Parag Mital)](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
 - [cs231n](http://cs231n.github.io/) - The notes accompany the Stanford Computer Science class CS231n (Convolutional Neural Networks for Visual Recognition).
 
-
-
-
-## Libraries
-
-- [tensorflow.js](https://js.tensorflow.org/) - :zap: A JavaScript library for training and deploying ML models in the browser and on Node.js.
-- [ml5.js](https://ml5js.org/) - :robot: 🖌  It aims to make machine learning approachable for a broad audience of artists, creative coders, and students.
-- [p5.js](https://github.com/processing/p5.js) - :art: :guitar:  p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
-
-
-
-
-## Machine Learning and Deep Learning
-- Google Colab Code snippet
-
 ## Additional Resources
 - Learning new software:
-  - [Houdini](https://www.sidefx.com/)
-    - [Houdini isn't scary](https://www.youtube.com/playlist?list=PLhyeWJ40aDkUDHDOhZQ2UkCfNiQj7hS5W) - Quick introduction to Houdini
-    - [Houdini Official Learn](https://www.sidefx.com/learn/getting_started/) Covered a wide of Houdini tutorials from beginner to advance
-    - [Entagma](https://www.youtube.com/channel/UCWu6SQmC6nAZ-reuj3lF2eQ) Covered a lot of Best tutorials of Houdini
+- [Houdini](https://www.sidefx.com/)
+- [Houdini Official Learn](https://www.sidefx.com/learn/getting_started/) 
+- [Entagma](https://www.youtube.com/channel/UCWu6SQmC6nAZ-reuj3lF2eQ) 
+- [Houdini isn't scary](https://www.youtube.com/playlist?list=PLhyeWJ40aDkUDHDOhZQ2UkCfNiQj7hS5W) 
 
