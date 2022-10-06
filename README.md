@@ -1,7 +1,7 @@
 # ComputationalDesign, ML and creative coding-for-Architect
 
 ## Contents
-- [Getting Started with Grasshopper 🌌](#Getting-started-Grasshopper)
+- [Getting Started with Grasshopper/computational](#Getting-started-Grasshopper)
 - [Getting Started with Creative Code 🎨](#Getting-started-Creative-Code)
 - [Introduction to Computational Design 🖥️](#Introduction-to-Computational-Design)
 - [Getting Started with AI/Machine Learning 🤖](#Getting-started-Machine-Learning)
