@@ -1,7 +1,7 @@
 # ComputationalDesign, ML and creative coding-for-Architect
 
 ## Contents
-- [Getting Started with Grasshopper/computational](#Getting-started-Grasshopper)
+- [Getting Started with Grasshopper_computational](#Getting-started-Grasshopper)
 - [Getting Started with Creative Code 🎨](#Getting-started-Creative-Code)
 - [Introduction to Computational Design 🖥️](#Introduction-to-Computational-Design)
 - [Getting Started with AI/Machine Learning 🤖](#Getting-started-Machine-Learning)
@@ -9,7 +9,7 @@
 - [People to Follow ↗️](#People-to-Follow)
 - [Additional Resources](#Additinal-Resources)
 
-## Getting Started with Grasshopper/computational
+## Getting Started with Grasshopper_computational
 - [Grasshopper Guides](https://developer.rhino3d.com/guides/grasshopper) - Guides to creating custom Grasshopper components and plugins.
 - [Introduction to Parametric Modeling](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_ym9r2mI2NdnYkoLUPSvXqP) -teaching the basics of using algorithms for creating three-dimensional geometry using Rhinoceros and Grasshopper.
 - [Getting Start with Grasshopper](https://www.youtube.com/playlist?list=PL46eCQifWhqLNEDqIhtWpZmLlZwadKz6u) - Understand the fundamental of Grasshopper taught by David Rutten.
