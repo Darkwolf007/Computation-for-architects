@@ -9,7 +9,7 @@
 - [Books & Articles & Resources](#Books-&-Articles)
 - [Additional Resources](#Additinal-Resources)
 
-## People to Follow// computation
+## People to Follow
 - [DigitalFUTURES world](https://www.youtube.com/channel/UCHN43U7Xe0oKfPUDkJrojAg) - DigitalFUTURES is an educational platform that has organized an annual series of activities consisting of workshops, lectures, conferences, and exhibitions.
 - [YourDesk University](https://www.youtube.com/channel/UCYVf4Mqp0xqTnfMbkwYVnkw) - YourDesk University is a place for the AEC Tech community to connect and share knowledge remotely. 
 - [ProArchitect](https://www.youtube.com/channel/UCQHbSxkVVmI5BzZWbXrZUXQ) - Computational Designer who talk about Automation in Architecture.
