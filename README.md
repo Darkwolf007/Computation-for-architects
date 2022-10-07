@@ -1,15 +1,15 @@
 # ComputationalDesign, ML and creative coding-for-Architect
 
-## Contents
-- [Getting Started with Grasshopper](#Getting-started-Grasshopper)
-- [Getting Started with Creative Code 🎨](#Getting-started-Creative-Code)
-- [Introduction to Computational Design 🖥️](#Introduction-to-Computational-Design)
-- [Getting Started with AI/Machine Learning 🤖](#Getting-started-Machine-Learning)
-- [Books & Articles & Resources](#Books-&-Articles)
-- [People to Follow ↗️](#People-to-Follow)
-- [Additional Resources](#Additinal-Resources)
+## Contents___yet to update
+# - [Getting Started with Grasshopper ](#Getting-started-Grasshopper)
+# - [Getting Started with Creative Code 🎨](#Getting-started-Creative-Code)
+# - [Introduction to Computational Design 🖥️](#Introduction-to-Computational-Design)
+# - [Getting Started with AI/Machine Learning 🤖](#Getting-started-Machine-Learning)
+# - [Books & Articles & Resources](#Books-&-Articles)
+# - [People to Follow ↗️](#People-to-Follow)
+# - [Additional Resources](#Additinal-Resources)
 
-## Getting Started with Grasshopper
+## Getting Started with Grasshopper/computational
 - [Grasshopper Guides](https://developer.rhino3d.com/guides/grasshopper) - Guides to creating custom Grasshopper components and plugins.
 - [Introduction to Parametric Modeling](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_ym9r2mI2NdnYkoLUPSvXqP) -teaching the basics of using algorithms for creating three-dimensional geometry using Rhinoceros and Grasshopper.
 - [Getting Start with Grasshopper](https://www.youtube.com/playlist?list=PL46eCQifWhqLNEDqIhtWpZmLlZwadKz6u) - Understand the fundamental of Grasshopper taught by David Rutten.
@@ -33,8 +33,55 @@
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) - A YouTube channel dedicated to beginner-friendly creative coding tutorials and challenges taught by Daniel Shiffman.
 - [Getting Simple Podcast](https://gettingsimple.com/podcast) - Do Less, Better Getting Simple is a podcast about how you can live a more meaningful, creative, and simple life.
 - [EngineeringArchiTECHure](https://www.youtube.com/c/EngineeringArchiTECHure) - A wide range of conversation with people in AEC tech hosted by [Mayur Mistry](https://twitter.com/mistrymm7)
+- [Learning C#](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_yfAFk4GT3gWdFhwCsODUNb) - Introduction to Computer Programming for Designers teaching the basics of how to write computer code using the C# programming language.
+- [Design Computing: 3D Modeling in Rhinoceros with Python Rhinoscript](https://www.futurelearn.com/courses/design-computing-3d-modeling-in-rhinoceros-with-python-rhinoscript) - The fundamentals of coding in the Python scripting language.
+- [Essential Mathematics for Computational Design](https://www.rhino3d.education/p/rajaa) - Introduces to design professionals the foundation mathematical concepts that are necessary for effective development of computational methods for 3D modeling and computer graphics.
+- [C# Scripting and Plugin Development for Grasshopper](https://www.icd.uni-stuttgart.de/teaching/workshops/workshop-live-streaming-c-scripting-and-plugin-development-for-grasshopper) - Live-streamed workshop C# Scripting and Plugin Development for Grasshopper, taught by Research Associate [Long Nguyen](https://www.linkedin.com/in/longnguyenp/)
+- [CORE studio](https://www.youtube.com/channel/UCrRLB6dxhTWLGLSVzWRaHjw)-Thornton Tomasetti
 
-## People to Follow// computation
+## Getting Started with Creative Code
+- [Introducint to Processing](https://thecodingtrain.com/Courses/learning-processing) - Video lessons accompany the introduction from The Learning Processing book by Daniel Shiffman.
+- [Introducing to P5.js](https://thecodingtrain.com/beginners/p5js) - Explain how computational media is different from traditional media using P5.js by Daniel Shiffman.
+- [Nature of Code](https://thecodingtrain.com/learning/nature-of-code/) - Video Series accompay The book [Nature of Code](https://natureofcode.com/book/).
+- [Introducing to Arduino](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP) Beginner Hand on [Arduino](https://www.arduino.cc/en/Guide/Introduction) tutorials by Paul McWhorter.
+
+## Getting-started-Machine-Learning
+- [ETHZ CAAD- Machine Intelligence](https://www.youtube.com/playlist?list=PLUJPgS8PA78E8y_vBqpRtsVy9k-ZZRQ3Q)- Introduction to machine intelligence
+- [CCI explore machine intelligence](https://www.youtube.com/playlist?list=PLCIVpmFkFKQ88lzWtYW2MCwqXofhkzqgt)- Machine intelligence
+- [FIU DDES Lectures_Theories of the Digital](https://www.youtube.com/playlist?list=PLjgJTkiYXdLfjR2Lf31_A9huoSPVWomhm) - AI and Architecture Talk Hosted by FIU
+- [Artificial Images](https://www.youtube.com/user/bustbright) - A Tutorials are all about Generative art using AI.
+- [Nono Martínez Alonso](https://www.youtube.com/channel/UCTn8RnMFvQWxSOZBo06e_Ew) - Live streamed Using Machine Learning, Talks, Tutorials about Machine Intelligence.
+- [Creative AI for Design Exploration](https://www.youtube.com/playlist?list=PLWu3lkFWPBHnyn_jVtl2aTL8CQFyrMa_k) - An Introduction to Creative AI for Designer
+- [Introduction to deeplearning](https://deeplearning.neuromatch.io/tutorials/intro.html) -Deeplearning course by neuromatch academy
+
+## Learning Resources
+
+### Beginners
+
+- [TensorFlow.js - Intelligence and Learning (The Coding Train)](https://www.youtube.com/watch?v=Qt3ZABW5lD0&list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ)
+- [Machine Learning with TensorFlow, ml5.js, and Spell (The Coding Train)](https://www.youtube.com/watch?v=ggBOAPtFjYU&list=PLRqwX-V7Uu6Y6kSfxOjq5zk4gkDK8q_n1)
+- [Beginners Guide to Machine Learning in JavaScript (The Coding Train)](https://www.youtube.com/watch?v=jmznx0Q1fP0&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
+
+### Medium
+
+- [Learning Machines](https://www.patrickhebron.com/learning-machines/) - Taught by Patrick Hebron at NYU/ITP, Fall 2017.
+- [Machine Learning for Musicians and Artists (Rebecca Fiebrink)](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
+- [ml4a (Machine Learning for Artists)](https://ml4a.github.io/)
+- [The Neural Aesthetic @ ITP-NYU, Fall 2018](http://ml4a.github.io/classes/itp-F18/#lectures) - An amazing course by Gene Kogna. It's full of open mateirals about the machine learning art.
+
+### Adanced
+
+- [Neural Style Transfer: Creating Art with Deep Learning using tf.keras and eager execution](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
+- [Creative Applications of Deep Learning with TensorFlow (Parag Mital)](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
+- [cs231n](http://cs231n.github.io/) - The notes accompany the Stanford Computer Science class CS231n (Convolutional Neural Networks for Visual Recognition).
+
+## Additional Resources
+- Learning new software:
+- [Houdini](https://www.sidefx.com/)
+- [Houdini Official Learn](https://www.sidefx.com/learn/getting_started/) 
+- [Entagma](https://www.youtube.com/channel/UCWu6SQmC6nAZ-reuj3lF2eQ) 
+- [Houdini isn't scary](https://www.youtube.com/playlist?list=PLhyeWJ40aDkUDHDOhZQ2UkCfNiQj7hS5W) 
+
 
 
 ## People to follow// Creative AI
@@ -56,30 +103,6 @@
 - [Anna Ridler](https://twitter.com/annaridler) - An artists who specilizes in machine learning and drawing.
 - [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/) - The creator of The Wekinator (an interacitve machine learning tool).
 - [Sofia Crespo](https://twitter.com/soficrespo91) - An artist based in Berlin. Her works are around microscopy, memetics, botany, and neural nets.
-
-
-## Getting Started with Creative Code
-- [Introducint to Processing](https://thecodingtrain.com/Courses/learning-processing) - Video lessons accompany the introduction from The Learning Processing book by Daniel Shiffman.
-- [Introducing to P5.js](https://thecodingtrain.com/beginners/p5js) - Explain how computational media is different from traditional media using P5.js by Daniel Shiffman.
-- [Nature of Code](https://thecodingtrain.com/learning/nature-of-code/) - Video Series accompay The book [Nature of Code](https://natureofcode.com/book/).
-- [Introducing to Arduino](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP) Beginner Hand on [Arduino](https://www.arduino.cc/en/Guide/Introduction) tutorials by Paul McWhorter.
-
-## Introduction to Computational Design
-- [Learning C#](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_yfAFk4GT3gWdFhwCsODUNb) - Introduction to Computer Programming for Designers teaching the basics of how to write computer code using the C# programming language.
-- [Design Computing: 3D Modeling in Rhinoceros with Python Rhinoscript](https://www.futurelearn.com/courses/design-computing-3d-modeling-in-rhinoceros-with-python-rhinoscript) - The fundamentals of coding in the Python scripting language.
-- [Essential Mathematics for Computational Design](https://www.rhino3d.education/p/rajaa) - Introduces to design professionals the foundation mathematical concepts that are necessary for effective development of computational methods for 3D modeling and computer graphics.
-- [C# Scripting and Plugin Development for Grasshopper](https://www.icd.uni-stuttgart.de/teaching/workshops/workshop-live-streaming-c-scripting-and-plugin-development-for-grasshopper) - Live-streamed workshop C# Scripting and Plugin Development for Grasshopper, taught by Research Associate [Long Nguyen](https://www.linkedin.com/in/longnguyenp/)
-- [CORE studio](https://www.youtube.com/channel/UCrRLB6dxhTWLGLSVzWRaHjw)-Thornton Tomasetti
-
-## Getting-started-Machine-Learning
-- [ETHZ CAAD- Machine Intelligence](https://www.youtube.com/playlist?list=PLUJPgS8PA78E8y_vBqpRtsVy9k-ZZRQ3Q)- Introduction to machine intelligence
-- [CCI explore machine intelligence](https://www.youtube.com/playlist?list=PLCIVpmFkFKQ88lzWtYW2MCwqXofhkzqgt)- Machine intelligence
-- [FIU DDES Lectures_Theories of the Digital](https://www.youtube.com/playlist?list=PLjgJTkiYXdLfjR2Lf31_A9huoSPVWomhm) - AI and Architecture Talk Hosted by FIU
-- [Artificial Images](https://www.youtube.com/user/bustbright) - A Tutorials are all about Generative art using AI.
-- [Nono Martínez Alonso](https://www.youtube.com/channel/UCTn8RnMFvQWxSOZBo06e_Ew) - Live streamed Using Machine Learning, Talks, Tutorials about Machine Intelligence.
-- [Creative AI for Design Exploration](https://www.youtube.com/playlist?list=PLWu3lkFWPBHnyn_jVtl2aTL8CQFyrMa_k) - An Introduction to Creative AI for Designer
-- [Introduction to deeplearning](https://deeplearning.neuromatch.io/tutorials/intro.html) -Deeplearning course by neuromatch academy
-
 
 ### Visual
 
@@ -131,32 +154,4 @@
 - [How Generative Music Works: A Perspective](https://teropa.info/loop/#/title) - It's a website describing generative music interactively.
 
 
-
-## Learning Resources
-
-### Beginners
-
-- [TensorFlow.js - Intelligence and Learning (The Coding Train)](https://www.youtube.com/watch?v=Qt3ZABW5lD0&list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ)
-- [Machine Learning with TensorFlow, ml5.js, and Spell (The Coding Train)](https://www.youtube.com/watch?v=ggBOAPtFjYU&list=PLRqwX-V7Uu6Y6kSfxOjq5zk4gkDK8q_n1)
-- [Beginners Guide to Machine Learning in JavaScript (The Coding Train)](https://www.youtube.com/watch?v=jmznx0Q1fP0&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
-
-### Medium
-
-- [Learning Machines](https://www.patrickhebron.com/learning-machines/) - Taught by Patrick Hebron at NYU/ITP, Fall 2017.
-- [Machine Learning for Musicians and Artists (Rebecca Fiebrink)](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
-- [ml4a (Machine Learning for Artists)](https://ml4a.github.io/)
-- [The Neural Aesthetic @ ITP-NYU, Fall 2018](http://ml4a.github.io/classes/itp-F18/#lectures) - An amazing course by Gene Kogna. It's full of open mateirals about the machine learning art.
-
-### Adanced
-
-- [Neural Style Transfer: Creating Art with Deep Learning using tf.keras and eager execution](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
-- [Creative Applications of Deep Learning with TensorFlow (Parag Mital)](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
-- [cs231n](http://cs231n.github.io/) - The notes accompany the Stanford Computer Science class CS231n (Convolutional Neural Networks for Visual Recognition).
-
-## Additional Resources
-- Learning new software:
-- [Houdini](https://www.sidefx.com/)
-- [Houdini Official Learn](https://www.sidefx.com/learn/getting_started/) 
-- [Entagma](https://www.youtube.com/channel/UCWu6SQmC6nAZ-reuj3lF2eQ) 
-- [Houdini isn't scary](https://www.youtube.com/playlist?list=PLhyeWJ40aDkUDHDOhZQ2UkCfNiQj7hS5W) 
 
