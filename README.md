@@ -4,9 +4,11 @@
 - [Getting Started with Grasshopper](#Getting-started-Grasshopper)
 - [Getting Started with Creative Code](#Getting-started-Creative-Code)
 - [Getting Started with AI/Machine Learning](#Getting-started-Machine-Learning)
-- [Books & Articles & Resources](#Books-&-Articles)
-- [People to Follow](#People-to-Follow)
-- [Additional Resources](#Additinal-Resources)
+- [Getting Started with VR/AR](#Getting-started-vr) wip
+- [Getting Started with fabrication](#Getting-started-vr) wip
+- [Books & Articles & Resources](#Books-&-Articles) wip
+- [People to Follow](#People-to-Follow) wip
+- [Additional Resources](#Additinal-Resources) wip
 
 ## Getting-started-Grasshopper
 - [Grasshopper Guides](https://developer.rhino3d.com/guides/grasshopper) - Guides to creating custom Grasshopper components and plugins.
