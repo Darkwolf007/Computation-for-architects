@@ -1,12 +1,11 @@
 # ComputationalDesign, ML and creative coding-for-Architect
 
-## Contents___yet to update
+## Contents
 - [Getting Started with Grasshopper](#Getting-started-Grasshopper)
-- [Getting Started with Creative Code 🎨](#Getting-started-Creative-Code)
-- [Introduction to Computational Design 🖥️](#Introduction-to-Computational-Design)
-- [Getting Started with AI/Machine Learning 🤖](#Getting-started-Machine-Learning)
+- [Getting Started with Creative Code](#Getting-started-Creative-Code)
+- [Getting Started with AI/Machine Learning](#Getting-started-Machine-Learning)
 - [Books & Articles & Resources](#Books-&-Articles)
-- [People to Follow ↗️](#People-to-Follow)
+- [People to Follow](#People-to-Follow)
 - [Additional Resources](#Additinal-Resources)
 
 ## Getting-started-Grasshopper
@@ -39,7 +38,7 @@
 - [C# Scripting and Plugin Development for Grasshopper](https://www.icd.uni-stuttgart.de/teaching/workshops/workshop-live-streaming-c-scripting-and-plugin-development-for-grasshopper) - Live-streamed workshop C# Scripting and Plugin Development for Grasshopper, taught by Research Associate [Long Nguyen](https://www.linkedin.com/in/longnguyenp/)
 - [CORE studio](https://www.youtube.com/channel/UCrRLB6dxhTWLGLSVzWRaHjw)-Thornton Tomasetti
 
-## Getting Started with Creative Code
+## Getting-started-Creative-Code
 - [Introducint to Processing](https://thecodingtrain.com/Courses/learning-processing) - Video lessons accompany the introduction from The Learning Processing book by Daniel Shiffman.
 - [Introducing to P5.js](https://thecodingtrain.com/beginners/p5js) - Explain how computational media is different from traditional media using P5.js by Daniel Shiffman.
 - [Nature of Code](https://thecodingtrain.com/learning/nature-of-code/) - Video Series accompay The book [Nature of Code](https://natureofcode.com/book/).
