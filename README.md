@@ -18,6 +18,8 @@
 - [Intro to Grasshopper](https://www.youtube.com/playlist?list=PLGV167zE8gnUzZxgWwPkqPQrofJsXtB4g) - Intro to Grasshopper by Mode Lab.
 - [Grasshopper for Beginner](https://www.youtube.com/playlist?list=PLq-KJ9jF26E2MBIBVKh6cu0O_wJ_1Cq5G) - Webinars taught by Gediminas Kirdeikis --LTH University.
 - [Generate Landscapes](https://generativelandscapes.wordpress.com) - A blogs about using Grasshopper for Landscape Deisgn.
+- [Wickerson studio](https://www.youtube.com/channel/UC7J48Ppcsa6oncp6d29R0xw)- Wickerson studio
+- [Junichiro Horikawa](https://www.youtube.com/c/JunichiroHorikawa)- Junichiro Horikawa
 - [Gediminas Kirdeikis](https://www.youtube.com/user/Gediminas3)-Gediminas Kirdeikis
 - [How to rhino](https://www.youtube.com/channel/UCwImuwbI4lKk544-FS7A2Yw)- How to rhino
 - [Reinhard Koenig](https://www.youtube.com/channel/UCo_hmaAwpJSzd0eyARSs7-Q)- Reinhard Koenig
