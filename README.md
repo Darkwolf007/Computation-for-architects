@@ -27,6 +27,7 @@
 - [GH.parametric design](https://www.youtube.com/@RhinoGrasshopper/videos)- GH.parametric design
 - [Sine Studio](https://www.youtube.com/@sinestudio/videos)- Sine Studio
 - [Om. egvo](https://www.youtube.com/@Omegvo)- Om. egvo
+- [ParametricCamp](https://www.youtube.com/@ParametricCamp)- ParametricCamp
 - [Learning C#](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_yfAFk4GT3gWdFhwCsODUNb) - Introduction to Computer Programming for Designers teaching the basics of how to write computer code using the C# programming language.
 - [Design Computing: 3D Modeling in Rhinoceros with Python Rhinoscript](https://www.futurelearn.com/courses/design-computing-3d-modeling-in-rhinoceros-with-python-rhinoscript) - The fundamentals of coding in the Python scripting language.
 - [Essential Mathematics for Computational Design](https://www.rhino3d.education/p/rajaa) - Introduces to design professionals the foundation mathematical concepts that are necessary for effective development of computational methods for 3D modeling and computer graphics.
