@@ -11,6 +11,7 @@
 - [Additional Resources](#Additinal-Resources) wip
 
 ## Getting-started-Grasshopper
+- [TU delft courses](http://wiki.bk.tudelft.nl/toi-pedia/Browse_by_Software) - Guides of tu delft all softwares.
 - [Grasshopper Guides](https://developer.rhino3d.com/guides/grasshopper) - Guides to creating custom Grasshopper components and plugins.
 - [Introduction to Parametric Modeling](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_ym9r2mI2NdnYkoLUPSvXqP) -teaching the basics of using algorithms for creating three-dimensional geometry using Rhinoceros and Grasshopper.
 - [Getting Start with Grasshopper](https://www.youtube.com/playlist?list=PL46eCQifWhqLNEDqIhtWpZmLlZwadKz6u) - Understand the fundamental of Grasshopper taught by David Rutten.
