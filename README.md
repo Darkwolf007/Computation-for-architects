@@ -63,6 +63,9 @@
 - [Creative AI for Design Exploration](https://www.youtube.com/playlist?list=PLWu3lkFWPBHnyn_jVtl2aTL8CQFyrMa_k) - An Introduction to Creative AI for Designer
 - [Introduction to deeplearning](https://deeplearning.neuromatch.io/tutorials/intro.html) -Deeplearning course by neuromatch academy
 
+## Getting-started-Urban-Analytics
+-[Automating GIS](https://autogis-site.readthedocs.io/en/latest/index.html) - Automating GIS process
+
 ## Learning Resources
 
 ### Beginners
