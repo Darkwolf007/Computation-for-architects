@@ -11,15 +11,16 @@
 - [Additional Resources](#Additinal-Resources) wip
 
 ## Getting-started-Grasshopper
-- [TU delft courses](http://wiki.bk.tudelft.nl/toi-pedia/Browse_by_Software) - Guides of tu delft all softwares.
-- [Design Morphine Webinars](https://www.youtube.com/@DesignMorphine/playlists) - Opensource webinars of design morphine - Houdini, Blender, Gh, Zbrush
+- [TU delft courses](https://digipedia.tudelft.nl/) - Guides of tu delft all softwares. (Urban)
+- [Weimar Bauhas]([https://digipedia.tudelft.nl/](https://otp.uni-weimar.de/all-courses/)) - Bauhaus-University Weimar. (Urban)
+- [Design Morphine Webinars](https://www.youtube.com/@DesignMorphine/playlists) - Opensource webinars of design morphine - Houdini, Blender, Gh, Zbrush 
 - [Grasshopper Guides](https://developer.rhino3d.com/guides/grasshopper) - Guides to creating custom Grasshopper components and plugins.
 - [Introduction to Parametric Modeling](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_ym9r2mI2NdnYkoLUPSvXqP) -teaching the basics of using algorithms for creating three-dimensional geometry using Rhinoceros and Grasshopper.
 - [Getting Start with Grasshopper](https://www.youtube.com/playlist?list=PL46eCQifWhqLNEDqIhtWpZmLlZwadKz6u) - Understand the fundamental of Grasshopper taught by David Rutten.
-- [Data structure grasshopper](https://youtu.be/SmNPxKTDcQI) - Data structure masterclass by David Rutten.
+- [Data structure grasshopper](https://youtu.be/SmNPxKTDcQI) - Data structure masterclass by David Rutten. (OG datastructure)
 - [Intro to Grasshopper](https://www.youtube.com/playlist?list=PLGV167zE8gnUzZxgWwPkqPQrofJsXtB4g) - Intro to Grasshopper by Mode Lab.
 - [Grasshopper for Beginner](https://www.youtube.com/playlist?list=PLq-KJ9jF26E2MBIBVKh6cu0O_wJ_1Cq5G) - Webinars taught by Gediminas Kirdeikis --LTH University.
-- [Generate Landscapes](https://generativelandscapes.wordpress.com) - A blogs about using Grasshopper for Landscape Deisgn.
+- [Generate Landscapes](https://generativelandscapes.wordpress.com) - A blogs about using Grasshopper for Landscape Deisgn. (Urban)
 - [Wickerson studio](https://www.youtube.com/channel/UC7J48Ppcsa6oncp6d29R0xw)- Wickerson studio
 - [Junichiro Horikawa](https://www.youtube.com/c/JunichiroHorikawa)- Junichiro Horikawa
 - [Gediminas Kirdeikis](https://www.youtube.com/user/Gediminas3)-Gediminas Kirdeikis
