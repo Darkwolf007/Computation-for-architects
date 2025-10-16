@@ -12,7 +12,7 @@
 
 ## Getting-started-Grasshopper
 - [TU delft courses](https://digipedia.tudelft.nl/) - Guides of tu delft all softwares. (Urban)
-- [Weimar Bauhas]([https://digipedia.tudelft.nl/](https://otp.uni-weimar.de/all-courses/)) - Bauhaus-University Weimar. (Urban)
+- [Weimar Bauhas](https://otp.uni-weimar.de/all-courses/) - Bauhaus-University Weimar. (Urban)
 - [Design Morphine Webinars](https://www.youtube.com/@DesignMorphine/playlists) - Opensource webinars of design morphine - Houdini, Blender, Gh, Zbrush 
 - [Grasshopper Guides](https://developer.rhino3d.com/guides/grasshopper) - Guides to creating custom Grasshopper components and plugins.
 - [Introduction to Parametric Modeling](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_ym9r2mI2NdnYkoLUPSvXqP) -teaching the basics of using algorithms for creating three-dimensional geometry using Rhinoceros and Grasshopper.
